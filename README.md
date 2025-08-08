@@ -10,31 +10,25 @@
 ---
 
 ### 🚀 Tools & Platforms I Use
-<p align="left">
-  <img src="assets/figma.png" alt="Figma" width="50px" style="margin-right: 15px;">
-  <img src="assets/framer.png" alt="Framer" width="50px" style="margin-right: 15px;">
-  <a href="https://www.linkedin.com/in/likhith-bs-07b62330b" target="_blank">
-    <img src="assets/linkedin.png" alt="LinkedIn" width="50px">
+<p align="center">
+  <img src="assets/figma.png" alt="Figma" width="100px" style="margin: 20px;">
+  <img src="assets/framer.png" alt="Framer" width="100px" style="margin: 20px;">
   </a>
 </p>
 
 ---
 
 ### 📌 About Me
-- 🎯 UI/UX Design enthusiast learning Figma & Framer
-- 🎨 Love designing aesthetic and functional interfaces
+- 🎯 UI/UX Design enthusiast learning **Figma** & **Framer**
+- 🎨 Love designing **aesthetic** and **functional** interfaces
 - 📚 Constantly improving my design skills
 
----
-
-### 📈 Current Goal
-To master UI/UX design skills and create an impressive portfolio for high-paying opportunities.
 
 ---
 
 ### 📬 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/likhith-bs-07b62330b" target="_blank">
-    <img src="assets/linkedin.png" alt="LinkedIn" width="40px">
+    <img src="assets/linkedin.png" alt="LinkedIn" width="100px">
   </a>
 </p>
