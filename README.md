@@ -28,7 +28,7 @@
 
 ### 📬 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/likhith-bs-07b62330b" target="_blank">
+  <a href="https://www.linkedin.com/in/lbs04" target="_blank">
     <img src="assets/linkedin.png" alt="LinkedIn" width="100px">
   </a>
 </p>
